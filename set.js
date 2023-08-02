@@ -17,9 +17,9 @@ const result = getCombinations(arr, 3);
 console.log(result);
 
 //재귀함수 이해용 소스: 팩토리얼
-const factorial = function(num) {
-  if (num < 1) {
-    return 1
-  }
-  return num * factorial(num -1);
-}
+// const factorial = function(num) {
+//   if (num < 1) {
+//     return 1
+//   }
+//   return num * factorial(num -1);
+// }
